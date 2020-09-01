@@ -1,0 +1,35 @@
+h1 {
+  text-align: center;
+}
+
+.pad50 {
+  padding: 50px;
+}
+
+.white_txt {
+  color: white;
+}
+
+.bg_brown {
+  background-color: #663300;
+}
+.bg_left_menu {
+  background-color: orange;
+}
+.bg_top_menu {
+  background-color: #996633;
+}
+
+.main_Content {
+  padding: 100px;
+}
+
+.bg_main_content {
+  background-color: lightgray;
+}
+.bg_photo_typeA {
+  background-color: palevioletred;
+}
+.bg_photo_typeB {
+  background-color: lightseagreen;
+}
